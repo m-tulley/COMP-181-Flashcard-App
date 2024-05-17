@@ -1,0 +1,46 @@
+Animals
+Der Hund
+the dog
+Der Papagei
+the parrot
+die Katze
+the cat
+die Maus
+the mouse
+das Huhn
+the hen
+Hallo
+Hello
+
+Instruments
+die Gitarre
+the guitar
+das Klavier
+the piano
+das Organ
+the organ
+die Trommeln
+the drums
+
+Breakfast
+der Kaffee
+the coffee
+der Tee
+the tea
+der Muffin
+the muffin
+der Scone
+the scone
+der Orangensaft
+the orange juice
+der Apfelsaft
+the apple juice
+
+Common Phrases
+Hallo
+Hello
+Tschuss
+Goodbye
+Wie geht es dir?
+How are you?
+
